@@ -1,0 +1,11 @@
+body{
+    text-transform: capitalize;
+    background-image: url(Media/City.jpg)   
+};
+div{
+    height: 100vh;
+    background-image: linear-gradient(to top bottom,
+    rgba(#2f9ab0),
+    rgba(#4c7bc3),
+    );
+}
