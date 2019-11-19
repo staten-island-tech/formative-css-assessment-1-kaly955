@@ -21,9 +21,13 @@ div h1{
 div{
     font-size: 4vh;
     text-align: center;
-    text-decoration: none;
     image-resolution: 5vh;
     font-family: cursive;
-    font-weight: bold, 500vh;
+    font-weight: 10000vh;
     font-style: oblique;
+    list-style-type: none;
+    border-image: 50vh;
+}
+#Rick{
+    height: 10000px;
 }
