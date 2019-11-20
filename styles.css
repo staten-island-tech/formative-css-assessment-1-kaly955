@@ -1,5 +1,9 @@
+html{
+    font-size: 62.5%;
+}
+
 div{
-    height: 100vh;
+    height: 100rem;
     background-image: linear-gradient(to right bottom,
     rgba(47, 186, 214, 0.5),
     rgba(97, 71, 189, 0.5)
@@ -11,7 +15,7 @@ div{
 }
 div h1{
     text-transform: uppercase;
-    font-size: 10vh;
+    font-size: 10rem;
     font-style: italic;
     font-style: oblique;
     text-align: center;
@@ -19,15 +23,16 @@ div h1{
     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
 }
 div{
-    font-size: 4vh;
+    font-size: 4rem;
     text-align: center;
-    image-resolution: 5vh;
+    image-resolution: 5rem;
     font-family: cursive;
-    font-weight: 10000vh;
+    font-weight: 10000rem;
     font-style: oblique;
     list-style-type: none;
-    border-image: 50vh;
+    border-image: 50rem;
 }
 #Rick{
-    height: 10000px;
+    height: 25rem;
+    filter: hue-rotate(120deg);
 }
